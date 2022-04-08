@@ -5,5 +5,7 @@ int main(){
     int a,b;
     cin>>a>>b;
     int c=a+b;
-    cout<<c;
+    int d=c+25;
+    cout<<c<<endl;
+    cout<<d;
 }
